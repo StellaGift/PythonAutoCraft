@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #generates passwords based on specified patterns
-#use the for loop operand to generate random password
+#use the for_loop operand to generate random password
 #selects the number of character and number of password to genrate
 
 import random
