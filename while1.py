@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #while_loops example 2(advanced)
-#example of a while loop for offensive security
+#example of a while_loop for offensive security
 #could be used for buffer overflow script in redteam and pentesting
 
 import time, struct, sys
