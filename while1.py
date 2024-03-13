@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#while loops example 2(advanced)
+#while_loops example 2(advanced)
 #example of a while loop for offensive security
 #could be used for buffer overflow script in redteam and pentesting
 
